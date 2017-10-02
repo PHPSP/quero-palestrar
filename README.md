@@ -18,8 +18,12 @@ Como título da issue, utilize o *título* de sua palestra. No corpo da issue ad
 Título: **Como Programar Melhor Jogando Game Boy**  
 Palavras-chaves: `php`, `internals`, `performance`  
 Nível: *básico*  
+Palestrante: Gabriel Rodrigues Couto  
 Descrição da palestra:  
 > Sabe aquele projeto de final de semana que você sempre quis fazer e nunca deu tempo ou prioridade? Nessa palestra, será mostrado como um projeto de final de semana chamou a atenção da comunidade no Github, como ele ajudou a compreender melhor o funcionamento interno do PHP e as melhorias de código que podem ser feitas para performance. E tudo isso jogando Game Boy em um emulador feito em PHP.
+
+Slides: [SlideShare](https://pt.slideshare.net/gabrielrcouto/como-programar-melhor-jogando-game-boy)  
+Github Repo: [php-terminal-gameboy-emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator)  
 
 ### Recomendações:
 
