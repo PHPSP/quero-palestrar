@@ -4,11 +4,22 @@
   <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc"><img src="https://user-images.githubusercontent.com/753958/30899543-a66b849c-a336-11e7-9d78-c46852086841.png" alt="Cadastrar Palestra" width="155" /></a>
 </p>
 
+<p>
+
+</p>
+
+
+
+
 ## Motivação
 
 O mundo de desenvolvimento de software tem presenciado um enorme crescimento no número de eventos e de **pessoas interessadas em palestrar**. Contudo, os organizadores de eventos continuam se deparando com dificuldades para encontrar palestrantes.
 
 A ideia desse projeto é ser um repositório central de **propostas de palestras** que permita que *pessoas interessadas em palestrar* cadastrem suas propostas e que *organizadores de eventos* encontrem mais facilmente potenciais palestrantes.
+
+#### [Lista de Palestras](https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3APalestra)
+
+#### [Lista de Palestrantes](https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aopen+is%3Aissue+label%3APalestrante)
 
 ## Como cadastrar a minha proposta?
 
