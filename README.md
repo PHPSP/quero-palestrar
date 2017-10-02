@@ -4,13 +4,6 @@
   <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc"><img src="https://user-images.githubusercontent.com/753958/30899543-a66b849c-a336-11e7-9d78-c46852086841.png" alt="Cadastrar Palestra" width="155" /></a>
 </p>
 
-<p>
-
-</p>
-
-
-
-
 ## Motivação
 
 O mundo de desenvolvimento de software tem presenciado um enorme crescimento no número de eventos e de **pessoas interessadas em palestrar**. Contudo, os organizadores de eventos continuam se deparando com dificuldades para encontrar palestrantes.
