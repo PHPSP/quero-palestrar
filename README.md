@@ -10,6 +10,10 @@ O mundo de desenvolvimento de software tem presenciado um enorme crescimento no 
 
 A ideia desse projeto é ser um repositório central de **propostas de palestras** que permita que *pessoas interessadas em palestrar* cadastrem suas propostas e que *organizadores de eventos* encontrem mais facilmente potenciais palestrantes.
 
+#### [Lista de Palestras](https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3APalestra)
+
+#### [Lista de Palestrantes](https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aopen+is%3Aissue+label%3APalestrante)
+
 ## Como cadastrar a minha proposta?
 
 Para cadastrar sua proposta, abra uma issue para cada *proposta de palestra* que deseja cadastrar.
