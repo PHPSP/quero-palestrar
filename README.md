@@ -11,9 +11,9 @@ O mundo de desenvolvimento de software tem presenciado um enorme crescimento no 
 A ideia desse projeto é ser um repositório central de **propostas de palestras** que permita que *pessoas interessadas em palestrar* cadastrem suas propostas e que *organizadores de eventos* encontrem mais facilmente potenciais palestrantes.
 
 <p align="center">
-    <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3APalestra">
+    <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A*Palestra">
         <img src="https://user-images.githubusercontent.com/753958/31208197-65eadf70-a959-11e7-9d63-05ab407bf0f4.png" alt="Ver Palestras" width="118" height="34" /></a>
-    <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3APalestrante">
+    <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A*Palestrante">
         <img src="https://user-images.githubusercontent.com/753958/31208199-6a072334-a959-11e7-9979-8722a5df10b4.png" alt="Ver Palestrantes" width="140" height="34" /></a>
 </p>
 
