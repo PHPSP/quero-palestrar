@@ -28,7 +28,7 @@ Como título da issue, utilize o *nome completo* do palestrante. No corpo da iss
 
 Nome: **Gabriel Rodrigues Couto**  
 E-mail: gabriel@r3c.com.br  
-Cidade: *São Paulo*  
+Cidade: *São Paulo - SP*  
 Site e blog: http://www.r3c.com.br *(opcional)*  
 Facebook: [gabrielrcouto](https://www.facebook.com/gabrielrcouto) *(opcional)*  
 Twitter: [gabrielrcouto](https://twitter.com/gabrielrcouto) *(opcional)*  

@@ -1,6 +1,6 @@
 Nome: **Nome Completo**
 E-mail: usuario@empresa.com
-Cidade: *São Paulo*
+Cidade: *São Paulo - SP*
 Site e blog: link para o site ou blog (opcional)
 Facebook: [usuario](https://www.facebook.com/usuario) (opcional)
 Twitter: [usuario](https://twitter.com/usuario) (opcional)
