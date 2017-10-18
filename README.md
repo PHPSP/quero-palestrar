@@ -1,7 +1,10 @@
-# Quero Palestrar!
-
+<h1 align="center">Quero Palestrar!</h1>
 <p align="center">
-  <a href="https://github.com/PHPSP/quero-palestrar/issues/new"><img src="https://user-images.githubusercontent.com/753958/30899543-a66b849c-a336-11e7-9d78-c46852086841.png" alt="Cadastrar Palestra" width="155" /></a>
+    Repositório de <i>palestrantes</i> e <i>propostas de palestras</i> para eventos de tecnologia.
+</p>
+<p align="center">
+  <a href="https://github.com/PHPSP/quero-palestrar/issues/new?template=speaker_template.md"><img src="https://user-images.githubusercontent.com/753958/31695073-e7acfc00-b386-11e7-9fa0-26a133d56eaa.png" alt="Cadastrar Palestrante" width="177" /></a>&nbsp;
+  <a href="https://github.com/PHPSP/quero-palestrar/issues/new"><img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" /></a>
 </p>
 
 ## Motivação
@@ -9,13 +12,6 @@
 O mundo de desenvolvimento de software tem presenciado um enorme crescimento no número de eventos e de **pessoas interessadas em palestrar**. Contudo, os organizadores de eventos continuam se deparando com dificuldades para encontrar palestrantes.
 
 A ideia desse projeto é ser um repositório central de **propostas de palestras** que permita que *pessoas interessadas em palestrar* cadastrem suas propostas e que *organizadores de eventos* encontrem mais facilmente potenciais palestrantes.
-
-<p align="center">
-    <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A*Palestra">
-        <img src="https://user-images.githubusercontent.com/753958/31208197-65eadf70-a959-11e7-9d63-05ab407bf0f4.png" alt="Ver Palestras" width="118" height="34" /></a>
-    <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A*Palestrante">
-        <img src="https://user-images.githubusercontent.com/753958/31208199-6a072334-a959-11e7-9979-8722a5df10b4.png" alt="Ver Palestrantes" width="140" height="34" /></a>
-</p>
 
 ## Como funciona?
 
