@@ -7,6 +7,22 @@
   <a href="https://github.com/PHPSP/quero-palestrar/issues/new"><img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" /></a>
 </p>
 
+---
+<p align="center">
+    <strong>Clique para Consultar</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%2APalestrante"><img src="https://user-images.githubusercontent.com/753958/31695466-91656c12-b389-11e7-8db4-4ea4d6e5be90.png" alt="Listar Palestrantes" width="82" height="18" /></a>&nbsp;
+  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%2APalestra"><img src="https://user-images.githubusercontent.com/753958/31695580-4526cd86-b38a-11e7-9d10-3abae8e53b5d.png" alt="Listar Palestras" width="63" height="18" /></a>&nbsp;
+  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%5BIniciante%5D"><img src="https://user-images.githubusercontent.com/753958/31695715-0c512686-b38b-11e7-953a-2adcc9b29dc0.png" alt="Listar Palestras Iniciantes" width="68" height="18" /></a>&nbsp;
+  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%5BIntermedi%C3%A1ria%5D"><img src="https://user-images.githubusercontent.com/753958/31695746-37eb015e-b38b-11e7-8aa1-593334898eea.png" alt="Listar Palestras Intermediárias" width="96" height="18" /></a>&nbsp;
+  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3AJavaScript"><img src="https://user-images.githubusercontent.com/753958/31695796-73685dd0-b38b-11e7-8a67-2c05d68a7abc.png" alt="Listar Palestras de JavaScript" width="71" height="18" /></a>&nbsp;
+  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3APHP"><img src="https://user-images.githubusercontent.com/753958/31695830-a06c992c-b38b-11e7-8765-6c260cdebb71.png" alt="Listar Palestras de PHP" width="33" height="18" /></a>&nbsp;
+  <a href="https://github.com/PHPSP/quero-palestrar/issues?q=is%3Aissue+is%3Aopen+label%3A%22%40S%C3%A3o+Paulo+-+SP%22"><img src="https://user-images.githubusercontent.com/753958/31695863-c30f67b6-b38b-11e7-936d-70f72190a40b.png" alt="Listar Palestrantes de São Paulo - SP" width="105" height="18" /></a>&nbsp;
+</p>
+
+---
+
 ## Motivação
 
 O mundo de desenvolvimento de software tem presenciado um enorme crescimento no número de eventos e de **pessoas interessadas em palestrar**. Contudo, os organizadores de eventos continuam se deparando com dificuldades para encontrar palestrantes.
